@@ -18,7 +18,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ### 🎲 Rodando Projeto
 
-```zsh
+```bash
 # Instale as dependências
 λ yarn install
 # ou
